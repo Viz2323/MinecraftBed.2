@@ -1,928 +1,1078 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730703323441 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1730745731596 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703326492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745734829 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703329557 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745737896 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703332612 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745740958 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703335668 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745744017 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703338722 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745747083 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703341776 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745750146 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703344831 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745753207 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703347895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745756274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703350952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745759345 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703354004 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745762414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703357058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745765526 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703360139 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745768591 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703363194 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745771684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703366253 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745774752 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703369323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745777826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703372390 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745780891 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703375451 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745784002 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703378503 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745787066 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703381569 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745790140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703384625 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745793202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703387680 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745796267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703390742 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745799340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703393800 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745802528 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703396854 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745805585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703399913 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745808673 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703402971 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745811763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703406027 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745814825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703409083 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745817888 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703412144 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745820957 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703415197 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745824024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703418262 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745827079 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703421334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745830134 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703424401 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745833202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703427456 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745836287 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703430513 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745839344 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703433567 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745842422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703436632 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745845482 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703439702 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745848564 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703442767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745851703 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703445833 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745854791 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703448902 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745857856 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703451957 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745860925 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703455015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745864046 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703458073 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745867123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703461132 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745870181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703464189 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745873274 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703467246 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745876340 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703470334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745879414 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703473388 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745882524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703476444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745885621 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703479510 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745888679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703482571 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745891733 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703485636 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745894801 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703488707 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745897923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703491770 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745900984 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703494863 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745904086 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703497936 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745907160 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703500993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745910222 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703506952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745913290 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703510009 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745916359 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703513066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745919469 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703516121 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745922545 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703519178 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745925615 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703522240 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745928681 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703525297 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745931741 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703528358 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745934811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703531413 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745938159 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703534480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745941218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703537543 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745944294 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703540607 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745947362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703543672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745950420 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703546768 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745953489 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703549826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745956558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703552899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745959634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703555969 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745962704 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703559023 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745965764 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703562080 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745968828 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703565145 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745971890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703568215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745974950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703571273 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745978004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703574339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745981070 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703577398 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745984132 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703580457 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745987197 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703583514 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745990262 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703586576 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745993326 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703589635 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745996394 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703592690 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730745999492 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703595757 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746002560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703598828 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746005619 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703601885 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746008700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703604951 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746011771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703608006 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746014857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703611060 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746017915 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703614117 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746020987 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703617171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746024057 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703620229 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746027115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703623311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746030179 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703626379 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746033239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703629444 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746036303 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703632497 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746039362 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703635568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746042424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703638629 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746045510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703641686 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746048570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703644738 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746051624 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703647803 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746054707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703650866 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746057770 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703653921 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746060835 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703656983 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746063999 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703660042 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746067099 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703663098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746070173 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703666161 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746073239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703669218 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746076297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703672273 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746079391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703675331 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746082494 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703678386 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746085558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703681446 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746088634 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703684507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746091940 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703687565 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746095011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703690621 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746098094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703693672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746101160 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703696732 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746104228 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703699790 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746107292 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703702843 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746110354 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703705899 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746113426 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703708971 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746116491 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703712039 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746119558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703715094 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746122725 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703718151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746125797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703721212 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746128857 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703724277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746131923 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703727335 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746135153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703730390 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746138297 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703733442 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746141366 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703736502 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746144453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703739568 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746147517 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703742640 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746150580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703745699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746153637 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703748764 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746156707 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703751829 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746159766 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703754882 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746162825 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703757943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746165890 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703761015 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746168953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703764089 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746172024 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703767149 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746175106 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703770204 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746178171 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703773291 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746181225 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703776365 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746184304 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703779417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746187371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703782488 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746190441 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703785544 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746193506 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703788602 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746196597 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703791657 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746199709 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703794713 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746202771 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
-[2J8[0mplayit (v0.15.26): 1730703797764 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1730746205833 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746208898 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746211977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746215038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746218109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746221181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746224248 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746227318 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746230390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746233461 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746236542 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746239599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746242657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746245754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746248926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746251985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746255047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746258140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746261205 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746264263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746267322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746270383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746273449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746276519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746279590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+space-accepted.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+positive-rules.gl.at.ply.gg:3058 => 127.0.0.1:3058 (minecraft-bedrock)
+[2J8[0mplayit (v0.15.26): 1730746282659 tunnel running, 2 tunnels registered
 
 
 TUNNELS
